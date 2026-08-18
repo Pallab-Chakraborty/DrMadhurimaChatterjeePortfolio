@@ -1,0 +1,23 @@
+{
+  "name": "dr-madhurima-chatterjee-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Dr. Madhurima Chatterjee — B2B SaaS Content Writer & Strategist.",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Pallab Chakraborty",
+  "homepage": "https://pallab-chakraborty.github.io/DrMadhurimaChatterjeePortfolio/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pallab-Chakraborty/DrMadhurimaChatterjeePortfolio.git"
+  },
+  "scripts": {
+    "start": "npx http-server . -p 8000 -c-1",
+    "serve": "npx http-server . -p 8000 -c-1"
+  },
+  "keywords": [
+    "portfolio",
+    "content-writer",
+    "personal-website",
+    "static-site"
+  ]
+}
